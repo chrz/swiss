@@ -1,6 +1,6 @@
-##1. Pilatus
-	####https://pilatus.ch/en
-	####https://resy-individual.azurewebsites.net/
+## 1. Pilatus
+	#### https://pilatus.ch/en
+	#### https://resy-individual.azurewebsites.net/
 	Seat reservation is recommended in nice weather
 	"We recommend booking at weekends when the weather is good and at lunchtime during the week. A reservation is not obligatory. Without a reservation, however, there may be waiting times."
 	
@@ -25,8 +25,8 @@
 	E Daily from 4 July - 16 August; Sat/Sun and public holidays from 23 May - 3 July and 17 August - 18 October
 	F Daily from 4 July - 16 August; Sat/Sun and public holidays from 23 May - 3 July and 17 August - 6 September
 	
-##2. Rigi
-##3. Stanserhorn
+## 2. Rigi
+## 3. Stanserhorn
     Online: Purchase on stanserhorn.ch
     At the valley station: Ticket counter in Stans (cash and cards accepted)
     SBB app: Look for combined rail + cable car tickets through the SBB Mobile app
@@ -36,7 +36,7 @@
 	Luzern - Stans - Kälti - Stanserhorn 
 	Stansenhorn - Kälti - Stans - Luzern
 	
-##4. Aareschlucht gorge
+## 4. Aareschlucht gorge
 	opening times:
 	3. April – 12. Juni 2026: 08.30 - 17.30 Uhr
 	13. Juni – 20. September 2026: 08.30 - 18.30 Uhr
@@ -55,7 +55,7 @@
 	- Meiringen -> Luzern train back(1h20m)
 	15:41	15:48	16:41	16:48	17:41	18:41	19:41	20:41	21:41
 
-##5. Brienz Rothorn
+## 5. Brienz Rothorn
 	https://brienz-rothorn-bahn.ch/en/
 	Brienz - Rothorn - Brienz
 
@@ -76,7 +76,7 @@
   
 	- go down with same train - 1h
 
-##6. Titlis 
+## 6. Titlis 
 	https://www.titlis.ch/en/activities 
 	https://widgets.oev-info.ch/publikation/jahresfpl/2534.pdf
 	- Luzern -> Elgenberg
@@ -88,9 +88,9 @@
 
 	- Elgenberg -> Luzern 
 	
-##7. Hammetschwand Elevator
+## 7. Hammetschwand Elevator
 
-##8. Stanserhorn
+## 8. Stanserhorn
 
 	- from Kälti to summit in openair cable car 
 		- needs reservation?
