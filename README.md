@@ -27,6 +27,7 @@ Seat reservation is recommended in nice weather
 	
 ## 2. Rigi
 ## 3. Stanserhorn
+```
 Online: Purchase on stanserhorn.ch
     At the valley station: Ticket counter in Stans (cash and cards accepted)
     SBB app: Look for combined rail + cable car tickets through the SBB Mobile app
@@ -35,11 +36,11 @@ https://www.stanserhorn.ch/en/informations/prices
 https://www.stanserhorn.ch/en/
 Luzern - Stans - Kälti - Stanserhorn 
 Stansenhorn - Kälti - Stans - Luzern
-	
+```	
 ## 4. Aareschlucht gorge
-	opening times:
-	3. April – 12. Juni 2026: 08.30 - 17.30 Uhr
-	13. Juni – 20. September 2026: 08.30 - 18.30 Uhr
+opening times:
+3. April – 12. Juni 2026: 08.30 - 17.30 Uhr
+13. Juni – 20. September 2026: 08.30 - 18.30 Uhr
 
 	- Luzern - Meiringen  (1h20m)
 		buy from main train page
@@ -56,8 +57,7 @@ Stansenhorn - Kälti - Stans - Luzern
 	15:41	15:48	16:41	16:48	17:41	18:41	19:41	20:41	21:41
 
 ## 5. Brienz Rothorn
-	https://brienz-rothorn-bahn.ch/en/
-	Brienz - Rothorn - Brienz
+https://brienz-rothorn-bahn.ch/en/
 
 	- Luzern - Meiringen -Brienz train: (1h27m)
 	  same like gorge
@@ -77,8 +77,9 @@ Stansenhorn - Kälti - Stans - Luzern
 	- go down with same train - 1h
 
 ## 6. Titlis 
-	https://www.titlis.ch/en/activities 
-	https://widgets.oev-info.ch/publikation/jahresfpl/2534.pdf
+https://www.titlis.ch/en/activities 
+https://widgets.oev-info.ch/publikation/jahresfpl/2534.pdf
+	
 	- Luzern -> Elgenberg
 	38 CHF adult: half price if STP or Half Fare card
 	Purchase a round-trip ticket from Engelberg to TITLIS. This ticket includes:
@@ -99,5 +100,5 @@ Stansenhorn - Kälti - Stans - Luzern
 
 	eat Älplermagronen served in an edelweiss eat pot in revolving restaurant
 
-	webcam: https://www.stanserhorn.ch/en/informations/weather-webcam
+webcam: https://www.stanserhorn.ch/en/informations/weather-webcam
 	
