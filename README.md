@@ -22,7 +22,7 @@ Seat reservation is recommended in nice weather
 	
 ## 2. Rigi
 ## 3. Stanserhorn
-https://www.stanserhorn.ch/en/informations/prices
+https://www.stanserhorn.ch/en/informations/prices  
 https://www.stanserhorn.ch/en/
 ```
 Online: Purchase on stanserhorn.ch
@@ -34,10 +34,10 @@ Luzern - Stans - Kälti - Stanserhorn
 Stansenhorn - Kälti - Stans - Luzern
 ```	
 ## 4. Aareschlucht gorge
-opening times:
-3. April – 12. Juni 2026: 08.30 - 17.30 Uhr
-13. Juni – 20. September 2026: 08.30 - 18.30 Uhr
-https://aareschlucht.ch/de/Info/informationen
+opening times:  
+3. April – 12. Juni 2026: 08.30 - 17.30 Uhr  
+13. Juni – 20. September 2026: 08.30 - 18.30 Uhr  
+https://aareschlucht.ch/de/Info/informationen  
 
 	- Luzern - Meiringen  (1h20m)
 		buy from main train page
