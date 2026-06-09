@@ -1,8 +1,8 @@
 ## 1. Pilatus
-https://pilatus.ch/en
-https://resy-individual.azurewebsites.net/
-Seat reservation is recommended in nice weather
-"We recommend booking at weekends when the weather is good and at lunchtime during the week. A reservation is not obligatory. Without a reservation, however, there may be waiting times."
+https://pilatus.ch/en  
+https://resy-individual.azurewebsites.net/  
+Seat reservation is recommended in nice weather  
+"We recommend booking at weekends when the weather is good and at lunchtime during the week. A reservation is not obligatory. Without a reservation, however, there may be waiting times."  
 	
 	- up: Luzern -> Alpnachstad -> cogweel to Pilatus
 		Boats from Lucerne to Alpnachstad
@@ -27,13 +27,14 @@ Seat reservation is recommended in nice weather
 	
 ## 2. Rigi
 ## 3. Stanserhorn
+https://www.stanserhorn.ch/en/informations/prices
+https://www.stanserhorn.ch/en/
 ```
 Online: Purchase on stanserhorn.ch
     At the valley station: Ticket counter in Stans (cash and cards accepted)
     SBB app: Look for combined rail + cable car tickets through the SBB Mobile app
 
-https://www.stanserhorn.ch/en/informations/prices
-https://www.stanserhorn.ch/en/
+
 Luzern - Stans - Kälti - Stanserhorn 
 Stansenhorn - Kälti - Stans - Luzern
 ```	
@@ -41,6 +42,7 @@ Stansenhorn - Kälti - Stans - Luzern
 opening times:
 3. April – 12. Juni 2026: 08.30 - 17.30 Uhr
 13. Juni – 20. September 2026: 08.30 - 18.30 Uhr
+https://aareschlucht.ch/de/Info/informationen
 
 	- Luzern - Meiringen  (1h20m)
 		buy from main train page
@@ -51,7 +53,7 @@ opening times:
 	- Meiringen -> Aareschlucht
 		R71 train to entrance (5-6 stops)
 		west and east entrance - start west, finish east, has tram stop back to Meiringen
-		https://aareschlucht.ch/de/Info/informationen
+		
 
 	- Meiringen -> Luzern train back(1h20m)
 	15:41	15:48	16:41	16:48	17:41	18:41	19:41	20:41	21:41
@@ -92,13 +94,12 @@ https://widgets.oev-info.ch/publikation/jahresfpl/2534.pdf
 ## 7. Hammetschwand Elevator
 
 ## 8. Stanserhorn
-
+guide: https://www.newlyswissed.com/stanserhorn-cable-car-guide/  
+official: https://www.stanserhorn.ch/en/
+		
 	- from Kälti to summit in openair cable car 
 		- needs reservation?
-		guide: https://www.newlyswissed.com/stanserhorn-cable-car-guide/   
-		official: https://www.stanserhorn.ch/en/
-
-	eat Älplermagronen served in an edelweiss eat pot in revolving restaurant
+		eat Älplermagronen served in an edelweiss eat pot in revolving restaurant
 
 webcam: https://www.stanserhorn.ch/en/informations/weather-webcam
 	
