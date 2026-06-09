@@ -19,11 +19,6 @@ Seat reservation is recommended in nice weather
 	Pilatus Kulm - Fräkmüntegg	09:00 – 17:30
  	Fräkmüntegg - Kriens				09:00 – 17:45
 
-	B Daily from 11 May - 18 October
-	C Daily from 23 May - 18 October
-	D Daily from 23 May - 18 October; Sat/Sun and public holidays from 11 - 22 May
-	E Daily from 4 July - 16 August; Sat/Sun and public holidays from 23 May - 3 July and 17 August - 18 October
-	F Daily from 4 July - 16 August; Sat/Sun and public holidays from 23 May - 3 July and 17 August - 6 September
 	
 ## 2. Rigi
 ## 3. Stanserhorn
