@@ -96,11 +96,24 @@ https://widgets.oev-info.ch/publikation/jahresfpl/2534.pdf
 
 ## 8. Stanserhorn
 guide: https://www.newlyswissed.com/stanserhorn-cable-car-guide/  
-official: https://www.stanserhorn.ch/en/
-		
-	- from Kälti to summit in openair cable car 
-		- needs reservation?
-		eat Älplermagronen served in an edelweiss eat pot in revolving restaurant
+official: https://www.stanserhorn.ch/en/  
+webcam: https://www.stanserhorn.ch/en/informations/weather-webcam
+
+- from Kälti to summit in openair cable car (25 minutes)
+	We recommend: Reserve your departure time online in advance to avoid waiting times in Stans. Please note the following:
+
+    The online boarding pass is free and is included in the purchase of an online ticket.  
+    If you already have a valid ticket or purchase your ticket at the ticket counter, you can buy the online departure reservation for CHF 2.  
+    Online departure reservations are non-refundable once purchased.  
+    Every passenger (including toddlers and babies) is required to have a departure reservation, as do dogs over 30cm in height.  
+    Bookings are for the departure times stated in the timetable. Additional departure times are made available on busy days.  
+    If all departure times are fully booked, additional departure reservations are available free of charge from the ticket counter. You may have to wait for availability.  
+    Online bookings are not available after 9 am on the day of the excursion. However, tickets and departure reservations remain available from the ticket counter.  
+    Passengers are requested to report to our staff at the lower terminus 10 minutes before departure time. The trip will take place within the next 20 minutes.  
+    A departure reservation for the descent is not available online. On well-frequented days, they are available on site on the mountain.  
+    Promotions may be redeemed at the ticket counter.  
+  
+(eat Älplermagronen served in an edelweiss eat pot in revolving restaurant)
 
 webcam: https://www.stanserhorn.ch/en/informations/weather-webcam
 	
